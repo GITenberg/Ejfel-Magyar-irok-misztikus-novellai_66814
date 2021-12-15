@@ -30,12 +30,17 @@ contributor:
     agent_name: Divéky, József
     gutenberg_agent_id: '53975'
     url: http://www.gutenberg.org/2009/agents/53975
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bálint, Aladár
     gutenberg_agent_id: '53974'
     url: http://www.gutenberg.org/2009/agents/53974
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66814#Ejfel-Magyar-irok-misztikus-novellai
 gutenberg_issued: '2021-11-24'
 identifiers:
   gutenberg: '66814'
